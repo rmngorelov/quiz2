@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Study Quiz</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="quiz-container">
+        <div id="header-controls">
+          <button id="clear-data-btn" style="display: none">
+            Clear Saved Data
+          </button>
+        </div>
+        <div id="progress-container">
+          <div id="progress-info">
+            <span id="progress-text">Question Progress: </span>
+            <span id="mastery-text">Mastered: </span>
+          </div>
+          <div id="progress-bar-container">
+            <div id="progress-bar" class="progress-fill"></div>
+          </div>
+        </div>
+
+        <div id="question-container">
+          <p id="question-text"></p>
+          <div id="choices-container"></div>
+        </div>
+
+        <div id="feedback-container" style="display: none">
+          <p id="feedback-text"></p>
+          <p id="streak-text"></p>
+        </div>
+
+        <div id="session-summary" style="display: none">
+          <h2>Session Complete!</h2>
+          <div id="summary-stats"></div>
+          <button id="continue-btn">Continue Studying</button>
+          <button id="reset-btn">Start New Session</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Audio elements -->
+    <audio id="correct-sound" src="sounds/correct.mp3" preload="auto"></audio>
+    <audio
+      id="incorrect-sound"
+      src="sounds/incorrect.mp3"
+      preload="auto"
+    ></audio>
+
+    <script src="js/quiz.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

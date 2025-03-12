@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "text": "What is weathering?",
+      "choices": [
+        "The carrying away of soil by water",
+        "The breaking and changing of rocks and minerals by wind, ice, plants, animals, and chemical changes",
+        "The process of soil turning into bedrock",
+        "The decomposition of plant matter in soil"
+      ],
+      "correctAnswer": "The breaking and changing of rocks and minerals by wind, ice, plants, animals, and chemical changes"
+    },
+    {
+      "text": "Which of the following is NOT an example of weathering?",
+      "choices": [
+        "Animals burrowing",
+        "Roots expanding",
+        "Water freezing in rocks",
+        "Sediment being carried away by a river"
+      ],
+      "correctAnswer": "Sediment being carried away by a river"
+    },
+    {
+      "text": "What is erosion?",
+      "choices": [
+        "The breaking down of rocks by chemical changes",
+        "The carrying away or moving of weathered material by wind or water",
+        "The process of soil formation from organic matter",
+        "The expansion of roots into rock crevices"
+      ],
+      "correctAnswer": "The carrying away or moving of weathered material by wind or water"
+    },
+    {
+      "text": "How is soil formed?",
+      "choices": [
+        "When water freezes and expands in rock crevices",
+        "When rocks and minerals are weathered and mix with decaying plants and animals",
+        "When erosion carries away topsoil",
+        "When bedrock rises to the surface"
+      ],
+      "correctAnswer": "When rocks and minerals are weathered and mix with decaying plants and animals"
+    },
+    {
+      "text": "What are the three layers of soil in order from top to bottom?",
+      "choices": [
+        "Bedrock, Subsoil, Topsoil",
+        "Topsoil, Bedrock, Subsoil",
+        "Topsoil, Subsoil, Bedrock",
+        "Subsoil, Topsoil, Bedrock"
+      ],
+      "correctAnswer": "Topsoil, Subsoil, Bedrock"
+    },
+    {
+      "text": "Which soil layer provides support and nutrients necessary for plant growth?",
+      "choices": [
+        "Topsoil",
+        "Subsoil",
+        "Bedrock",
+        "Humus"
+      ],
+      "correctAnswer": "Topsoil"
+    },
+    {
+      "text": "Which soil layer is a mixture of rock and soil where only large tree roots grow?",
+      "choices": [
+        "Topsoil",
+        "Subsoil",
+        "Bedrock",
+        "Humus"
+      ],
+      "correctAnswer": "Subsoil"
+    },
+    {
+      "text": "What is the bottom layer of soil made up of?",
+      "choices": [
+        "Decaying plants and animals",
+        "A mixture of rock and soil",
+        "Layers of rocks",
+        "Sand and clay particles"
+      ],
+      "correctAnswer": "Layers of rocks"
+    },
+    {
+      "text": "Which soil component holds the least amount of water?",
+      "choices": [
+        "Clay",
+        "Sand",
+        "Gravel",
+        "Humus"
+      ],
+      "correctAnswer": "Gravel"
+    },
+    {
+      "text": "Which soil component has the smallest particles and holds the most water?",
+      "choices": [
+        "Clay",
+        "Sand",
+        "Gravel",
+        "Loam"
+      ],
+      "correctAnswer": "Clay"
+    },
+    {
+      "text": "What is sand made up of?",
+      "choices": [
+        "Sticky and moist particles",
+        "Decayed matter that adds nutrients",
+        "Small grains of worn-down rock",
+        "Equal parts of sand, silt, and clay"
+      ],
+      "correctAnswer": "Small grains of worn-down rock"
+    },
+    {
+      "text": "What is humus?",
+      "choices": [
+        "The bottom layer of soil",
+        "Decayed matter in topsoil that adds nutrients",
+        "Hard, solid particles that provide no nutrients",
+        "Small grains of worn-down rock"
+      ],
+      "correctAnswer": "Decayed matter in topsoil that adds nutrients"
+    },
+    {
+      "text": "What type of soil is considered the best soil for plant growth?",
+      "choices": [
+        "Clay soil",
+        "Sandy soil",
+        "Loam soil",
+        "Gravel soil"
+      ],
+      "correctAnswer": "Loam soil"
+    },
+    {
+      "text": "What is loam soil composed of?",
+      "choices": [
+        "Mostly clay with some humus",
+        "Equal parts of sand, silt, with a smaller amount of clay",
+        "Mostly sand with some gravel",
+        "Mostly humus with some bedrock"
+      ],
+      "correctAnswer": "Equal parts of sand, silt, with a smaller amount of clay"
+    },
+    {
+      "text": "How does soil affect plant life in an area?",
+      "choices": [
+        "It has no effect on what plants can grow",
+        "It only affects the color of plants",
+        "It determines what types of plants can live in an area",
+        "It only affects how tall plants grow"
+      ],
+      "correctAnswer": "It determines what types of plants can live in an area"
+    },
+    {
+      "text": "What type of soil do cactus and palm trees grow well in?",
+      "choices": [
+        "Clay soil",
+        "Sandy soil",
+        "Loam soil",
+        "Humus-rich soil"
+      ],
+      "correctAnswer": "Sandy soil"
+    },
+    {
+      "text": "What type of soil is most common in the Virginia region according to the study guide?",
+      "choices": [
+        "Sandy soil",
+        "Clay soil",
+        "Loam soil",
+        "Gravel soil"
+      ],
+      "correctAnswer": "Clay soil"
+    },
+    {
+      "text": "Which of the following is NOT a way to control or stop erosion?",
+      "choices": [
+        "Planting trees, grass, and plants",
+        "Building fences to block wind",
+        "Removing vegetation to expose soil",
+        "Terracing"
+      ],
+      "correctAnswer": "Removing vegetation to expose soil"
+    },
+    {
+      "text": "What is crop rotation?",
+      "choices": [
+        "Planting trees around crops",
+        "Building underground water pipes",
+        "Planting different crops on the same field each year",
+        "Adding compost to soil"
+      ],
+      "correctAnswer": "Planting different crops on the same field each year"
+    },
+    {
+      "text": "Which of these soil conservation methods helps add nutrients back to the soil?",
+      "choices": [
+        "Building fences",
+        "Terracing",
+        "Water pipes",
+        "Composting"
+      ],
+      "correctAnswer": "Composting"
+    }
+  ]
+}
