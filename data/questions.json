@@ -1,6 +1,7 @@
 {
   "questions": [
     {
+      // Question 1: Location of Ancient Greece
       "text": "Where was Ancient Greece located?",
       "choices": [
         "On an island in the Atlantic Ocean",
@@ -11,6 +12,7 @@
       "correctAnswer": "On a peninsula with many islands, surrounded by the Mediterranean Sea"
     },
     {
+      // Question 2: Region of influence
       "text": "During its period of greatest influence, Ancient Greece spread throughout which region?",
       "choices": [
         "The western Mediterranean region",
@@ -21,6 +23,7 @@
       "correctAnswer": "The eastern Mediterranean region"
     },
     {
+      // Question 3: Definition of peninsula
       "text": "What type of landform is a peninsula?",
       "choices": [
         "Land that is surrounded by water on all sides",
@@ -31,6 +34,7 @@
       "correctAnswer": "Land that is surrounded by water on three sides"
     },
     {
+      // Question 4: Modern-day location
       "text": "Which modern-day country occupies the same region as Ancient Greece?",
       "choices": [
         "Italy",
@@ -41,6 +45,7 @@
       "correctAnswer": "Greece"
     },
     {
+      // Question 5: Farming limitations
       "text": "What geographical feature limited farming in Ancient Greece?",
       "choices": [
         "Deserts",
@@ -51,6 +56,7 @@
       "correctAnswer": "Mountains and hills"
     },
     {
+      // Question 6: Surrounding waters
       "text": "Which bodies of water surrounded Ancient Greece?",
       "choices": [
         "The Atlantic Ocean and the Black Sea",
@@ -61,6 +67,7 @@
       "correctAnswer": "The Mediterranean Sea and many islands"
     },
     {
+      // Question 7: Mediterranean Sea classification
       "text": "What type of sea is the Mediterranean described as in the study guide?",
       "choices": [
         "An inland sea",
@@ -71,6 +78,7 @@
       "correctAnswer": "An intercontinental sea"
     },
     {
+      // Question 8: Mediterranean Sea borders
       "text": "Which continents does the Mediterranean Sea border?",
       "choices": [
         "Europe and Asia only",
@@ -81,6 +89,7 @@
       "correctAnswer": "Europe, Africa, and Asia"
     },
     {
+      // Question 9: Environmental adaptation
       "text": "How did Ancient Greeks adapt to their mountainous environment?",
       "choices": [
         "They built elaborate tunnel systems through the mountains",
@@ -91,6 +100,7 @@
       "correctAnswer": "They traded across the Mediterranean Sea and built ships"
     },
     {
+      // Question 10: Farming limitations reason
       "text": "Why was farming limited in Ancient Greece?",
       "choices": [
         "Because of frequent droughts",
@@ -101,6 +111,7 @@
       "correctAnswer": "Because of the mountains"
     },
     {
+      // Question 11: Ancient Greek products
       "text": "What goods did people in Ancient Greece produce?",
       "choices": [
         "Silk, spices, and tea",
@@ -111,6 +122,7 @@
       "correctAnswer": "Ships, pottery, and olives"
     },
     {
+      // Question 12: Definition of goods
       "text": "What is the definition of 'goods' according to the study guide?",
       "choices": [
         "Skills that people provide to others",
@@ -121,6 +133,7 @@
       "correctAnswer": "Things that people make or use to satisfy their wants"
     },
     {
+      // Question 13: Definition of services
       "text": "What is the definition of 'services' according to the study guide?",
       "choices": [
         "Things that people make or use to satisfy their wants",
@@ -131,6 +144,7 @@
       "correctAnswer": "Activities that satisfy people's wants"
     },
     {
+      // Question 14: Definition of producers
       "text": "What are producers according to the study guide?",
       "choices": [
         "People who buy goods and services",
@@ -141,6 +155,7 @@
       "correctAnswer": "People who use resources to make goods and/or provide services"
     },
     {
+      // Question 15: Natural resource example
       "text": "Which of the following is an example of a natural resource?",
       "choices": [
         "Doctors",
@@ -151,6 +166,7 @@
       "correctAnswer": "Water"
     },
     {
+      // Question 16: Human resource example
       "text": "Which of the following is an example of a human resource?",
       "choices": [
         "Soil",
@@ -161,6 +177,7 @@
       "correctAnswer": "Doctors"
     },
     {
+      // Question 17: Capital resource example
       "text": "Which of the following is an example of a capital resource?",
       "choices": [
         "Wood",
@@ -171,6 +188,7 @@
       "correctAnswer": "Tools"
     },
     {
+      // Question 18: Popular crop
       "text": "What popular crop was grown in Ancient Greece?",
       "choices": [
         "Wheat",
@@ -181,6 +199,7 @@
       "correctAnswer": "Olives"
     },
     {
+      // Question 19: Definition of contribution
       "text": "What is a contribution according to the study guide?",
       "choices": [
         "A type of building constructed in Ancient Greece",
@@ -191,6 +210,7 @@
       "correctAnswer": "The act of giving or doing something"
     },
     {
+      // Question 20: Architectural feature
       "text": "What architectural feature did Greek architects use in the construction of their buildings?",
       "choices": [
         "Domes",
@@ -201,6 +221,7 @@
       "correctAnswer": "Columns"
     },
     {
+      // Question 21: The Parthenon
       "text": "What is the Parthenon?",
       "choices": [
         "An ancient Greek ship",
@@ -211,6 +232,7 @@
       "correctAnswer": "An example of ancient Greek architecture that still exists today"
     },
     {
+      // Question 22: Art forms
       "text": "Which forms of art were often seen on buildings in Ancient Greece?",
       "choices": [
         "Graffiti, murals, and chalk drawings",
@@ -221,6 +243,7 @@
       "correctAnswer": "Mosaics, sculptures, and paintings"
     },
     {
+      // Question 23: Popular art form
       "text": "What was a popular form of art in Ancient Greece?",
       "choices": [
         "Pottery",
@@ -231,6 +254,7 @@
       "correctAnswer": "Pottery"
     },
     {
+      // Question 24: Government birthplace
       "text": "What type of government is Ancient Greece considered the birthplace of?",
       "choices": [
         "Monarchy",
@@ -241,6 +265,7 @@
       "correctAnswer": "Democracy"
     },
     {
+      // Question 25: Democracy definition
       "text": "What does democracy mean according to the study guide?",
       "choices": [
         "Government by a single ruler",
@@ -251,6 +276,7 @@
       "correctAnswer": "Government by the people"
     },
     {
+      // Question 26: Type of democracy
       "text": "What type of democracy did Ancient Greece have?",
       "choices": [
         "Representative democracy",
@@ -261,6 +287,7 @@
       "correctAnswer": "Direct democracy"
     },
     {
+      // Question 27: Modern government influence
       "text": "What modern government is based on ideas developed in Ancient Greece?",
       "choices": [
         "The government of China",
@@ -271,6 +298,7 @@
       "correctAnswer": "The government of the United States"
     },
     {
+      // Question 28: Modern sporting event
       "text": "What modern sporting event is modeled after the games of Ancient Greece?",
       "choices": [
         "The World Cup",
@@ -279,6 +307,29 @@
         "The Commonwealth Games"
       ],
       "correctAnswer": "The Olympic Games"
+    }
+  ],
+    {
+      // Question 29: Fishing adaptation
+      "text": "How did Ancient Greeks use ships besides trading?",
+      "choices": [
+        "For military conquest only",
+        "For transportation between islands only",
+        "To fish in the Mediterranean Sea",
+        "For ceremonial purposes only"
+      ],
+      "correctAnswer": "To fish in the Mediterranean Sea"
+    },
+    {
+      // Question 30: Significance of Mediterranean Sea
+      "text": "Why was the Mediterranean Sea important to people in Ancient Greece?",
+      "choices": [
+        "It provided defense against invaders",
+        "It was used for fresh drinking water",
+        "It allowed them to travel and trade",
+        "It was considered sacred in their religion"
+      ],
+      "correctAnswer": "It allowed them to travel and trade"
     }
   ]
 }
